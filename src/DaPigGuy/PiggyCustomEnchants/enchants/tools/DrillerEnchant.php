@@ -16,9 +16,9 @@ use pocketmine\Player;
 class DrillerEnchant extends RecursiveEnchant
 {
     /** @var string */
-    public $name = "Driller";
+    public $name = "Miner";
     /** @var int */
-    public $rarity = CustomEnchant::RARITY_UNCOMMON;
+    public $rarity = CustomEnchant::RARITY_MYTHIC;
 
     /** @var int */
     public $itemType = CustomEnchant::ITEM_TYPE_TOOLS;
