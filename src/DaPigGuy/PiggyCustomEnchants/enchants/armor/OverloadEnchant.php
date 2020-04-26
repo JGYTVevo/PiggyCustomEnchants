@@ -13,11 +13,11 @@ use pocketmine\Player;
 class OverloadEnchant extends ToggleableEnchantment
 {
     /** @var string */
-    public $name = "Overload";
+    public $name = "MoreHealth";
     /** @var int */
     public $rarity = CustomEnchant::RARITY_MYTHIC;
     /** @var int */
-    public $maxLevel = 3;
+    public $maxLevel = 10;
 
     /** @var int */
     public $usageType = CustomEnchant::TYPE_ARMOR_INVENTORY;
