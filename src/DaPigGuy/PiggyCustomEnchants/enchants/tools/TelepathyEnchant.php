@@ -15,7 +15,7 @@ use pocketmine\Player;
 class TelepathyEnchant extends ReactiveEnchantment
 {
     /** @var string */
-    public $name = "Telepathy";
+    public $name = "Auto Inv";
     /** @var int */
     public $maxLevel = 1;
 
