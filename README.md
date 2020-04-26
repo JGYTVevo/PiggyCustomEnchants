@@ -2,6 +2,8 @@
 
 PiggyCustomEnchants is an open-sourced custom enchants plugin for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) featuring over 90 custom enchantments.
 
+(This is forked and changed by JGYTVevo for My server)
+
 <!-- If one question constantly persists, add the Q/A in here. -->
 ## FAQ
 **Q:** How do I create/use an enchanted book? </br>
