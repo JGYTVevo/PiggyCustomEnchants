@@ -22,7 +22,7 @@
   "deepwounds": "Inflict on enemies deep wounds that cause bleeding.",
   "disarming": "Grants chance to disarm enemy.",
   "disarmor": "Grants chance to disarmor enemy.",
-  "miner": "Mines a 3 by 3 hole. Gets bigger with each level.",
+  "destroyer": "Mines a 3 by 3 hole. Gets bigger with each level.",
   "drunk": "Inflicts Slowness, Mining Fatigue, and Nausea upon hitting enemy.",
   "endershift": "Gain Speed and Absorption when low on health.",
   "energizing": "Gain Haste when a block is broken.",
